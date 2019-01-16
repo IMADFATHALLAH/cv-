@@ -1,0 +1,65 @@
+body{
+    background-color: #F2F1EF;
+     
+    
+}
+.page{
+    
+}
+.name{
+    
+    width:780px;
+    margin: auto;
+    border-style: solid;
+    border-width: 2px;
+}
+#a{
+    text-align: center;
+    font-family:inherit;
+    font-size: 30px;
+    width: 780px;
+    margin: 17px;
+    
+}
+#text{
+    margin: 20px;
+}
+
+#titre{
+    font-family: inherit;
+}
+
+#droit{
+    margin: 10px;
+    text-align: center;
+    
+    
+}
+#droit{
+    margin: 10px;
+    text-align: center;
+}
+
+#langu{
+    margin: 10px;
+    text-align: center;
+}
+
+#sport{
+    margin: 10px;
+    text-align: center;
+}
+.sum{
+    
+    border: 2px;
+}
+#titre{
+    
+    background-color:#dfe6e9;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    font-family:sans-serif;
+    font-size: 20px;
+    
+}
